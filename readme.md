@@ -1,0 +1,1 @@
+# A web scraper written using Scrapy to scrape products from an e-commerce store 
